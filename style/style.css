@@ -45,17 +45,19 @@
 }
 .logo .slogan {
 	padding-left:10px;
-	margin-left:5px;
-	line-height:43px;
-	color:#fff;
+	width: 600px;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left:0px;
+	line-height:20px;
+	color:#0B1350;
 	display:block;
 	float:left;
 	
-	background:url(../images/sprites.png) 0px 11px no-repeat;
 }
 
 .tp-right {
-	width:575px;
+	width:300px;
 	float:right;
 }
 .social-links > ul {

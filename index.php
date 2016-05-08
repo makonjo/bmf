@@ -22,7 +22,7 @@
 <div class="wrap">
   <div class="tp-bar">
     <div class="container">
-      <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="BMF"></div>
+      <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="BMF"></a> <span class="slogan"> Buea Municipal Council’s Business Management and Public Service Integrity Fellowship  </span> </div>
       <!-- logo ends -->
       <div class="tp-right">
         <div class="social-links">
@@ -30,9 +30,6 @@
             <li><a href="#" class="icon-yahoo tooltip" title="yahoo"></a></li>
             <li><a href="#" class="icon-facebook tooltip" title="facebook"></a></li>
             <li><a href="#" class="icon-rss tooltip" title="rss"></a></li>
-            <li><a href="#" class="icon-flickr tooltip" title="flickr"></a></li>
-            <li><a href="#" class="icon-msn tooltip" title="msn"></a></li>
-            <li><a href="#" class="icon-stumbleupon tooltip" title="stumbleupon"></a></li>
           </ul>
         </div>
         
