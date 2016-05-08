@@ -110,59 +110,48 @@
              data-y="170"
              data-speed="500"
              data-start="500"
-             data-easing="easeOutExpo">Sollicitudin a lacinia eufermentum etellus
+             data-easing="easeOutExpo">Improving Governance and Private
           </div>
           <div class="caption medium_grey lfr"
              data-x="left"
              data-y="236"
              data-speed="500"
              data-start="800"
-             data-easing="easeOutExpo">Sollicitudin a lacinia eufermentum etellus vestibulum libero
+             data-easing="easeOutExpo">Sector Expansion in Municipalities through Education
           </div>
-          <div class="caption medium_grey lfb"
+        </li>
+        <li data-transition="papercut" data-slotamount="15" data-masterspeed="2300" data-delay="9400">
+          <img src="images/resource/slide-2.jpg" alt="slide">
+          <div class="caption large_yallow lfl stl"
              data-x="left"
-             data-y="290"
+             data-y="170"
+             data-speed="500"
+             data-start="500"
+             data-easing="easeOutExpo">Offering Collective Learning, 
+          </div>
+          <div class="caption medium_grey lfr"
+             data-x="left"
+             data-y="236"
              data-speed="500"
              data-start="800"
-             data-easing="easeOutExpo">nibh. eufermentum etellus vestibulum.
+             data-easing="easeOutExpo">Skill Development Support, and Sharing of Best Practices
           </div>
         </li>
-        <li data-transition="flyin" data-slotamount="1" data-masterspeed="300">
-          <img src="images/resource/slide-2.jpg" alt="slide">
-          <div class="caption large_grey lfl"
-             data-x="right"
-             data-y="190"
-             data-speed="800"
-             data-start="800"
-             data-easing="easeOutExpo">Sollicitudin a lacinia eufermentum etellus
-          </div>
-          <div class="caption small_white sfb"
-            data-x="right"
-            data-y="264"
-            data-speed="800"
-            data-start="1200"
-            data-easing="easeOutExpo">Sollicitudin a lacinia eufermentum etellus vestibulum
-          </div>
-        </li>
-        <li data-transition="papercut" data-slotamount="1" data-masterspeed="300">
+        <li data-transition="papercut" data-slotamount="15" data-masterspeed="2300" data-delay="9400">
           <img src="images/resource/slide-3.jpg" alt="slide">
-          <div class="caption large_grey lfl"
-             data-x="center"
-             data-y="bottom"
-             data-voffset="-115"
-             data-hoffset="100"
-             data-speed="800"
-             data-start="800"
-             data-easing="easeOutExpo">Sollicitudin a lacinia eufermentum etellus
+          <div class="caption large_yallow lfl stl"
+             data-x="left"
+             data-y="170"
+             data-speed="500"
+             data-start="500"
+             data-easing="easeOutExpo">Connecting the human capital of 
           </div>
-          <div class="caption small_white sfb"
-            data-x="center"
-            data-y="bottom"
-             data-voffset="-55"
-             data-hoffset="100"
-            data-speed="800"
-            data-start="1200"
-            data-easing="easeOutExpo">Sollicitudin a lacinia eufermentum etellus vestibulum
+          <div class="caption medium_grey lfr"
+             data-x="left"
+             data-y="236"
+             data-speed="500"
+             data-start="800"
+             data-easing="easeOutExpo">Buea municipality to the Nation’s National Development Agenda (Vision 2035)
           </div>
         </li>
       </ul>
@@ -172,9 +161,7 @@
   
   <div class="alert alert-full">
     <div class="container">
-      <h4>Notification</h4>
-      <p>Vel arcu in nec porttitor aliquam tempor platea, turpis? Ridiculus nascetur dignissim amet ac scelerisque facilisis etiam sed odio rhoncus, pellentesque nisi aenean vel. Sed a etiam in, non, velit ac cum in, magna, nisi ultrices, porta odio duis, urna tincidunt ac dis ultricies sit, lorem montes facilisis. Est, scelerisque, </p>
-      <a href="#" class="close">x</a>
+      <h4><center>Advancing innovative citizen led approaches to improve governance</center></h4>
     </div>
   </div><!-- alert ends -->
   
@@ -182,7 +169,7 @@
     <div class="row">
       <div class="span6">
         <div class="events">
-          <h2>Upcoming <strong>Events</strong></h2>
+          <h2>Upcoming <strong>Sessions</strong></h2>
           <ul class="events-list">
             <li>
               <div class="event-box event-box-featured">
@@ -190,92 +177,96 @@
                   <a href="events-detail.html"><img src="images/resource/pic-1.jpg" alt="pic"></a>
                 </figure>
                 <div class="detail">
-                  <h5><a href="events-detail.html">Et et odio aenean odio facilisis ac turpis urna porta et!</a></h5>
+                  <h5><a href="events-detail.html">BMF Tailored Professional Courses and Modules</a></h5>
                   <ul>
-                    <li><span><i class="icon-date"></i>25 - 02 - 2013</span><span>08:00am - 12:00pm</span></li>
-                    <li><span><i class="icon-location"></i>Washington, United States</span></li>
+                    <li><span>Combination of unique experiential learning and academia level learning that provide a broad curriculum of professional skill development. </span></li>
                   </ul>
                 </div>
               </div><!-- event-box ends -->
             </li>
             <li>
               <div class="event-box">
-                <figure class="image">
-                  <a href="events-detail.html"><img src="images/resource/pic-2.jpg" alt="pic"></a>
-                </figure>
                 <div class="detail">
-                  <h5><a href="events-detail.html">Et et odio aenean odio facilisis ac turpis urna porta et!</a></h5>
+                  <h5><a href="events-detail.html">Day 1</a></h5>
                   <ul>
-                    <li><span><i class="icon-date"></i>25 - 02 - 2013</span><span>08:00am - 12:00pm</span></li>
-                    <li><span><i class="icon-location"></i>Washington, United States</span></li>
+                    <li><span><i class="icon-date"></i> The God Reward for Service</span></li>
+                    <li><span><i class="icon-date"></i> The Business Environment</span></li>
+                    <li><span><i class="icon-date"></i> Stakeholders Analysis</span></li>
+                    <li><span><i class="icon-date"></i> Strategic Change Leadership</span></li>
                   </ul>
                 </div>
               </div><!-- event-box ends -->
             </li>
             <li>
               <div class="event-box">
-                <figure class="image">
-                  <a href="events-detail.html"><img src="images/resource/pic-3.jpg" alt="pic"></a>
-                </figure>
                 <div class="detail">
-                  <h5><a href="events-detail.html">Et et odio aenean odio facilisis ac turpis urna porta et!</a></h5>
+                  <h5><a href="events-detail.html">Day 2</a></h5>
                   <ul>
-                    <li><span><i class="icon-date"></i>25 - 02 - 2013</span><span>08:00am - 12:00pm</span></li>
-                    <li><span><i class="icon-location"></i>Washington, United States</span></li>
+                    <li><span><i class="icon-date"></i> Understanding Corruption, Its causes, effects and consequences</span></li>
+                    <li><span><i class="icon-date"></i> Public Service Corruption Risk Assessment & Management</span></li>
+                    <li><span><i class="icon-date"></i> Strategic Human Resource Management</span></li>
+                    <li><span><i class="icon-date"></i> Corporate Strategy</span></li>
                   </ul>
                 </div>
               </div><!-- event-box ends -->
             </li>
             <li>
               <div class="event-box">
-                <figure class="image">
-                  <a href="events-detail.html"><img src="images/resource/pic-4.jpg" alt="pic"></a>
-                </figure>
                 <div class="detail">
-                  <h5><a href="events-detail.html">Et et odio aenean odio facilisis ac turpis urna porta et!</a></h5>
+                  <h5><a href="events-detail.html">Day 3</a></h5>
                   <ul>
-                    <li><span><i class="icon-date"></i>25 - 02 - 2013</span><span>08:00am - 12:00pm</span></li>
-                    <li><span><i class="icon-location"></i>Washington, United States</span></li>
+                    <li><span><i class="icon-date"></i> Economics of Happiness (Video session)</span></li>
+                    <li><span><i class="icon-date"></i> Anti Corruption What it Means to the Cameroonian Economy</span></li>
+                    <li><span><i class="icon-date"></i> Policy Development, Analysis and Implementation; Understanding the Difference Between Governance and Good Governance</span></li>
+                    <li><span><i class="icon-date"></i> Explaining Vision 2035: Understanding the Growth and Employment Strategy Objectives of Cameroon and Cameroon’s Development Goals</span></li>
+                  </ul>
+                </div>
+              </div><!-- event-box ends -->
+            </li>
+            <li>
+              <div class="event-box">
+                <div class="detail">
+                  <h5><a href="events-detail.html">Day 4</a></h5>
+                  <ul>
+                    <li><span><i class="icon-date"></i> Poject Management</span></li>
+                    <li><span><i class="icon-date"></i> Marketing Policy, Planning, and Communication</span></li>
+                    <li><span><i class="icon-date"></i> Financial Accounting</span></li>
+                    <li><span><i class="icon-date"></i> Nonviolent Discipline and Communication ( Video)</span></li>
+                  </ul>
+                </div>
+              </div><!-- event-box ends -->
+            </li>
+            <li>
+              <div class="event-box">
+                <div class="detail">
+                  <h5><a href="events-detail.html">Day 5</a></h5>
+                  <ul>
+                    <li><span><i class="icon-date"></i> Understanding Entrepreneurship</span></li>
+                    <li><span><i class="icon-date"></i> Group Presentation of Lessons Learned by Learners</span></li>
+                    <li><span><i class="icon-date"></i> Closing Ceremony & Award of Fellowship Certificates</span></li>
                   </ul>
                 </div>
               </div><!-- event-box ends -->
             </li>
           </ul><!-- events-list ends -->
-          <div class="pagination pagination-centered">
-            <ul>
-              <li class="previous"><a href="#">Prev</a></li>
-              <li><a href="#">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li class="active"><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-              <li><a href="#">6</a></li>
-              <li><a href="#">...</a></li>
-              <li><a href="#">22</a></li>
-              <li class="next"><a href="#">Next</a></li>
-            </ul>
-          </div><!-- pagination ends -->
+
         </div><!-- events end -->
       </div>
       <div class="span3">
         <div class="donate">
-          <h2>Donate <strong>Now</strong></h2>
+          <h2>The <strong>Program</strong></h2>
           <div class="donate-box">
-            <form method="post" action="http://www.extracoding.com/demo/html/help/index.html">
+            <form method="post" action="README.md">
               <div class="donate-detail">
-                <h3>Turpis nisi ac integer, ridiculus, elit. Urna, mid</h3>
+                <h3>Want a complete downloadable copy of the program?</h3>
                 <div class="ratio">
-                  79% Raised
+                  Download almost complete
                 </div>
                 <div class="progress">
                   <div class="bar" style="width:79%"></div>
                 </div>
               </div><!-- donate-detail ends -->
-              <ul>
-                <li>Funds Raised <span>$11,223</span></li>
-                <li>Goal <span>$25,000</span></li>
-              </ul>
-              <input type="submit" class="btn btn-donate" value="Donate Now">
+              <input type="submit" class="btn btn-donate" value="Download Now">
             </form>
           </div><!-- donate-box ends -->
         </div><!-- donate ends -->
@@ -306,18 +297,11 @@
       </div>
       <div class="span3">
         <div class="events">
-          <h2>Events</h2>
-          <div class="event-countdown">
-            <h3>Raesent et neque at leo rutrum fermentum</h3>
-            <div class="counter">
-              <div class="count-down"></div>
-            </div>
-            <p>Integer at lacus sed sem placerat ullamcorper. Ut posuere, orci a viverra pellentesque, enim nisi tempus</p>
-            <ul class="list">
-              <li><span><i class="icon-date"></i>25 - 02 - 2013</span><span>08:00am - 12:00pm</span></li>
-              <li><span><i class="icon-location"></i>Washington, United States</span></li>
-            </ul>
-          
+          <h2>The Lord <strong>Mayor</strong></h2>
+           <div class="donate-box">
+            <figure class="image">
+                  <a href="events-detail.html"><img src="images/resource/mayor.jpg" alt="pic"></a>
+                </figure>
           </div><!-- event-countdown ends -->
         </div><!-- events (countdonw ends -->
         <div class="widget-facebook">

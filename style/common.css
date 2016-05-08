@@ -209,7 +209,6 @@ h6 {
   font-family:inherit;
   font-weight:normal;
   line-height:1.1em;
-  color:#3f3f3f;
   text-rendering:optimizelegibility;
 }
 
@@ -1351,8 +1350,8 @@ input[type="submit"].btn-donate {
   padding:20px 35px 12px 14px;
 	font-size:13px;
 	line-height:17px;
-	color:#8c8c8c;
-  background-color:#eaeaea;
+	color: #f2b636;
+  background-color:#0B1350;
 }
 .alert-full {
 	margin-top:-30px;
