@@ -4,7 +4,7 @@
 <!-- Mirrored from www.extracoding.com/demo/html/help/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 08 May 2016 12:53:23 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Help: helping living projects</title>
+<title>Home: BMF</title>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -271,28 +271,24 @@
           </div><!-- donate-box ends -->
         </div><!-- donate ends -->
         <div class="twitter">
-          <h2>Twitter <strong>Feeds</strong></h2>
-          <div class="tweets-box">
-            <ul class="tweets-list">
-              <li>
-                <h6>Lenny Kravitz (15 hours ago)</h6>
-                <p>The <a href="#">#blackandwhiteamerica</a> album cover will be revealed March 1st during my first appearance ever <a href="#">http://bit.ly/trg87z</a></p>        
-              </li>
-              <li>
-                <h6>Lenny Kravitz (15 hours ago)</h6>
-                <p>The <a href="#">#blackandwhiteamerica</a> album cover will be revealed March 1st during my first appearance ever <a href="#">http://bit.ly/trg87z</a></p>        
-              </li>
-              <li>
-                <h6>Lenny Kravitz (15 hours ago)</h6>
-                <p>The <a href="#">#blackandwhiteamerica</a> album cover will be revealed March 1st during my first appearance ever <a href="#">http://bit.ly/trg87z</a></p>        
-              </li>
-              <li>
-                <h6>Lenny Kravitz (15 hours ago)</h6>
-                <p>The <a href="#">#blackandwhiteamerica</a> album cover will be revealed March 1st during my first appearance ever <a href="#">http://bit.ly/trg87z</a></p>        
-              </li>
-            </ul>
-          </div><!-- tweets-box ends -->
-          <div class="follow-twitter">Follow us on Twitter</div>
+          <h2>What is <strong>BMF?</strong></h2>
+          <div class="event-box">
+                <div class="detail" style="text-align: justify;">
+                <p>
+                  BMF is a pioneering Business Management and Public Service Integrity professional development opportunity for the population of Cameroon in general, offered by Buea Municipal Council. It aims to overcome shortcomings in the development potential of ordinary citizens who constitute key players in the social, economic and political life of Cameroon and Buea municipality in particular. It is a partnership between the Buea Municipal Council and the International Governance 
+                </p>
+                <p>
+                  Institute of the UK through its Cameroon chapter known as the Focal Integrity Team. The BMF supports young public servants in the civil service and private sectors, unskilled small business operators and young entrepreneurs; graduates from all works of life, including individuals who desire to improve their competencies in business management and local governance for the sustainable development of Buea Municipality and Cameroon in general.
+                </p>
+                <p>
+                  The purpose of BMF is to help Cameroon recover lost grounds in governance, economic and social development as quickly as possible so as to ...
+                </p>
+                <p>
+                  <a href="about.php">Continue reading about BMF</a>
+                </p>
+                  
+                </div>
+              </div><!-- tweets-box ends -->
         </div><!-- twitter ends -->      
       </div>
       <div class="span3">
@@ -304,10 +300,22 @@
                 </figure>
           </div><!-- event-countdown ends -->
         </div><!-- events (countdonw ends -->
-        <div class="widget-facebook">
-          <h2>Facebook</h2>
-          <div class="fb-like-box" data-href="https://www.facebook.com/themebazaar" data-width="270" data-show-faces="true" data-stream="false" data-show-border="true" data-header="true"></div>
-        </div><!-- widget-facebook ends -->
+        <div class="twitter">
+          <h2>Full <strong>Scholarships</strong></h2>
+          <div class="event-box">
+                <div class="detail" style="text-align: justify;">
+                <p>
+                  While public trust in public servants and business operators globally is running low there is a real need to ensure that investments in Cameroon are protected. According to Doing Business in Cameroon published by the Foreign and Commonwealths Office Cameroon’s economic growth is expected to accelerate over the next five years period from an official estimated of 4.1 percent GDP in 2011 to an average of 4.5 percent in 2016 going forward. One of the incentives to pushing our economic and social develop growth rate even further is to ensure the availability of skilled professionals capable of providing support for the improvement of our governance and macro economic situation. To this end the Lord Mayor of Buea Municipality is offering a number of full scholarships for fellows to participate in the Business Management and Public Service Integrity Fellowship that is jointly organized by the International Governance Institute of the UK and Buea Municipal Council in Buea, Cameroon. To benefit from this scholarship ( alongside your application) you must write a short essay of not more than 200 words...
+                </p>
+
+
+                <p>
+                  <a href="about.php">Continue reading about the Lord Mayor's Scholarship</a>
+                </p>
+                  
+                </div>
+              </div><!-- tweets-box ends -->
+        </div><!-- twitter ends -->  
         
       </div>
     </div>
