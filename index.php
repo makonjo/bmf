@@ -22,7 +22,7 @@
 <div class="wrap">
   <div class="tp-bar">
     <div class="container">
-      <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="help"></a> <span class="slogan"> Helping Living Project </span> </div>
+      <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="BMF"></div>
       <!-- logo ends -->
       <div class="tp-right">
         <div class="social-links">
@@ -35,13 +35,7 @@
             <li><a href="#" class="icon-stumbleupon tooltip" title="stumbleupon"></a></li>
           </ul>
         </div>
-        <div class="tweets">
-          <ul id="tweet">
-            <li>Here are 10 quality, affordable Zen Cart Templates, perfect for a wide variety of eCommerce needs. <a href="#">http://enva.to/XiCf5F</a></li>
-            <li>perfect for a wide variety of eCommerce needs. <a href="#">http://enva.to/XiCf5F</a></li>
-            <li>affordable Zen Cart Templates, perfect for a wide variety of eCommerce needs</li>
-          </ul>
-        </div>
+        
       </div>
     </div>
   </div><!-- tp-bar ends -->
