@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.extracoding.com/demo/html/help/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 08 May 2016 12:53:23 GMT -->
 <head>
 <meta charset="utf-8">
 <title>Home: BMF</title>
@@ -27,9 +26,8 @@
       <div class="tp-right">
         <div class="social-links">
           <ul>
-            <li><a href="#" class="icon-yahoo tooltip" title="yahoo"></a></li>
-            <li><a href="#" class="icon-facebook tooltip" title="facebook"></a></li>
-            <li><a href="#" class="icon-rss tooltip" title="rss"></a></li>
+            <li><a href="http://facebook.com/skademy" class="icon-facebook tooltip" title="facebook"></a></li>
+            <li><a href="http://skademy.com" class="icon-rss tooltip" title="rss"></a></li>
           </ul>
         </div>
         
@@ -326,115 +324,26 @@
         <ul class="testimoni">
           <li>
             <blockquote>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum porttitor neque porttitor dictum. Ut euismod, libero et accumsan dignissim, lacus turpis hendrerit tellus, ut accumsan velit quam quis ante.</p>
+              <p>The purpose of training is to tighten up the slack, toughen the body, and polish the spirit. </p>
             </blockquote>
-            <span class="name">Dan Clark | LWSS</span>
+            <span class="name">Morihei Ueshiba</span>
           </li>
           <li>
             <blockquote>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum porttitor neque porttitor dictum. Ut euismod, libero et accumsan dignissim, lacus turpis hendrerit tellus, ut accumsan velit quam quis ante.</p>
+              <p>Job training empowers people to realize their dreams and improve their lives. </p>
             </blockquote>
-            <span class="name">Dan Clark | LWSS</span>
-          </li>
-          <li>
-            <blockquote>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum porttitor neque porttitor dictum. Ut euismod, libero et accumsan dignissim, lacus turpis hendrerit tellus, ut accumsan velit quam quis ante.</p>
-            </blockquote>
-            <span class="name">Dan Clark | LWSS</span>
-          </li>
-          <li>
-            <blockquote>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum porttitor neque porttitor dictum. Ut euismod, libero et accumsan dignissim, lacus turpis hendrerit tellus, ut accumsan velit quam quis ante.</p>
-            </blockquote>
-            <span class="name">Dan Clark | LWSS</span>
-          </li>
-          <li>
-            <blockquote>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum porttitor neque porttitor dictum. Ut euismod, libero et accumsan dignissim, lacus turpis hendrerit tellus, ut accumsan velit quam quis ante.</p>
-            </blockquote>
-            <span class="name">Dan Clark | LWSS</span>
-          </li>
-          <li>
-            <blockquote>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum porttitor neque porttitor dictum. Ut euismod, libero et accumsan dignissim, lacus turpis hendrerit tellus, ut accumsan velit quam quis ante.</p>
-            </blockquote>
-            <span class="name">Dan Clark | LWSS</span>
+            <span class="name">Sylvia Mathews Burwell</span>
           </li>
         </ul>
       </div>
     </div>
   </div><!-- testimonials end -->
   
-  <footer class="footer">
-      <div class="container">
-        <div class="row">
-          <div class="widget">
-            <h2>Recent Posts</h2>
-            <div class="posts-list">
-              <ul>
-                <li>
-                  <img src="images/resource/thumbs/post-thumb-1.jpg" alt="post thumb">
-                  <div class="post-text">
-                    <h5><a href="#">Lorem ipsum dolor sit ametc..</a></h5>
-                    <p>From the island-studded seas of the north to the meandering the....</p>
-                  </div>
-                </li>
-                <li>
-                  <img src="images/resource/thumbs/post-thumb-2.jpg" alt="post thumb">
-                  <div class="post-text">
-                    <h5><a href="#">Lorem ipsum dolor sit ametc..</a></h5>
-                    <p>From the island-studded seas of the north to the meandering the....</p>
-                  </div>
-                </li>
-                <li>
-                  <img src="images/resource/thumbs/post-thumb-3.jpg" alt="post thumb">
-                  <div class="post-text">
-                    <h5><a href="#">Lorem ipsum dolor sit ametc..</a></h5>
-                    <p>From the island-studded seas of the north to the meandering the....</p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div><!-- widget ends -->
-          <div class="widget gallery-thumbs">
-            <h2>Gallery</h2>
-            <ul class="clearfix">
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-1.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-2.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-3.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-4.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-5.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-6.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-7.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-8.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-9.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-10.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-11.jpg" alt="gallery thumb"></a></li>
-              <li><a href="#"><img src="images/resource/thumbs/gallery-thumb-12.jpg" alt="gallery thumb"></a></li>
-            </ul>
-          </div><!-- widget ends -->
-          <div class="widget widget-text">
-            <h2>Contact Us</h2>
-            <a href="#">Vel arcu in nec porttitor aliquam tempor platea, turpis? Ridiculus nascetur dignissim amet ac.</a>
-            <p>Vel arcu in nec porttitor aliquam tempor platea, turpis? Ridiculus nascetur dignissim amet ac scelerisque facilisis etiam sed odio rhoncus, pellentesque nisi aenean vel. Sed a etiam in, non, velit ac cum in, magna, nisi ultrices, porta odio duis, urna tincidunt ac dis ultricies sit, lorem montes facilisis. Est, scelerisque, nisi ultrices, porta odio duis, urna tincidunt ac dis ultricies sit, lorem montes facilisis.</p>
-          </div><!-- widget ends -->        
-          <div class="widget widget_newsletter">
-            <h2>Newsletter</h2>
-            <div class="newsletter">
-              <p>Vel arcu in nec porttitor aliquam tempor platea, turpis? Ridiculus nascetur dignissim amet ac scelerisque facilisis etiam sed odio</p>
-              <form action="http://www.extracoding.com/demo/html/help/index.html" method="post">
-                <input type="text" class="input-block-level" placeholder="Email Address">
-                <input type="submit" class="btn" value="Subscribe">
-              </form>
-            </div>
-          </div><!-- widget ends -->
-        </div>
-      </div>  
-  </footer>
+
   <div class="bottom">
     <div class="container">
       <div class="bottom-left">
-        <p>&copy;2013 H.E.L.P. All rights reserved. Theme Designed By <a href="#">Themebazaar</a></p>
+        <p>&copy;2016 BMF &nbsp; &nbsp; &nbsp; Done By <a href="http://www.makonjo.com">Makonjo Media</a></p>
         <ul>
           <li><a href="index-2.html">Home</a></li>
           <li><a href="#">Environment</a></li>
@@ -444,12 +353,8 @@
       </div>
       <div class="social-links">
         <ul>
-          <li><a href="#" class="icon-yahoo tooltip" title="yahoo"></a></li>
-          <li><a href="#" class="icon-facebook tooltip" title="facebook"></a></li>
-          <li><a href="#" class="icon-rss tooltip" title="rss"></a></li>
-          <li><a href="#" class="icon-flickr tooltip" title="flickr"></a></li>
-          <li><a href="#" class="icon-msn tooltip" title="msn"></a></li>
-          <li><a href="#" class="icon-stumbleupon tooltip" title="stumbleupon"></a></li>
+          <li><a href="http://facebook.com/skademy" class="icon-facebook tooltip" title="facebook"></a></li>
+          <li><a href="http://makonjo.com" class="icon-rss tooltip" title="rss"></a></li>
         </ul>
       </div>
     </div>
