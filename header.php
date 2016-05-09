@@ -42,15 +42,15 @@
 
         <li><a href="about.php">About BMF</a>
           <ul>
-            <li><a href="policy.html">Policy Documents</a></li>
-             <li><a href="team.html">Team</a></li>
+            <li><a href="policy.php">Policy Documents</a></li>
+             <li><a href="team.php">Team</a></li>
               
             
           </ul>
         </li>
        
-        <li><a href="benchmarks.html">Benchmarks</a></li>
-          <li><a href="benefits.html">Benefits</a></li>
+        <li><a href="benchmarks.php">Benchmarks</a></li>
+          <li><a href="benefits.php">Benefits</a></li>
            <li><a href="professional.html">Professional Courses</a></li>
         <li>
           <a href="applications.html">Applications</a>
