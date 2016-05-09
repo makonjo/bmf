@@ -157,7 +157,7 @@
             <li>
               <div class="event-box">
                 <div class="detail">
-                  <h5><a href="events-detail.html">Day 1</a></h5>
+                  <h5><a href="professional.html">Day 1</a></h5>
                   <ul>
                     <li><span><i class="icon-date"></i> The God Reward for Service</span></li>
                     <li><span><i class="icon-date"></i> The Business Environment</span></li>
@@ -170,7 +170,7 @@
             <li>
               <div class="event-box">
                 <div class="detail">
-                  <h5><a href="events-detail.html">Day 2</a></h5>
+                  <h5><a href="professional.html">Day 2</a></h5>
                   <ul>
                     <li><span><i class="icon-date"></i> Understanding Corruption, Its causes, effects and consequences</span></li>
                     <li><span><i class="icon-date"></i> Public Service Corruption Risk Assessment & Management</span></li>
@@ -183,7 +183,7 @@
             <li>
               <div class="event-box">
                 <div class="detail">
-                  <h5><a href="events-detail.html">Day 3</a></h5>
+                  <h5><a href="professional.html">Day 3</a></h5>
                   <ul>
                     <li><span><i class="icon-date"></i> Economics of Happiness (Video session)</span></li>
                     <li><span><i class="icon-date"></i> Anti Corruption What it Means to the Cameroonian Economy</span></li>
@@ -196,7 +196,7 @@
             <li>
               <div class="event-box">
                 <div class="detail">
-                  <h5><a href="events-detail.html">Day 4</a></h5>
+                  <h5><a href="professional.html">Day 4</a></h5>
                   <ul>
                     <li><span><i class="icon-date"></i> Poject Management</span></li>
                     <li><span><i class="icon-date"></i> Marketing Policy, Planning, and Communication</span></li>
@@ -209,7 +209,7 @@
             <li>
               <div class="event-box">
                 <div class="detail">
-                  <h5><a href="events-detail.html">Day 5</a></h5>
+                  <h5><a href="professional.html">Day 5</a></h5>
                   <ul>
                     <li><span><i class="icon-date"></i> Understanding Entrepreneurship</span></li>
                     <li><span><i class="icon-date"></i> Group Presentation of Lessons Learned by Learners</span></li>
