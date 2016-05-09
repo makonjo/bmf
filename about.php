@@ -1,83 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+$title = "About";
+include("header.php");
+?> 
 
-<!-- Mirrored from www.extracoding.com/demo/html/help/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 08 May 2016 12:54:34 GMT -->
-<head>
-<meta charset="utf-8">
-<title>BMF: About Us</title>
-<meta name="viewport" content="width=device-width, maximum-scale=1.0">
-<meta name="description" content="">
-<meta name="author" content="">
-<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
-<link href="style/common.css" rel="stylesheet">
-<link href="style/style.css" rel="stylesheet">
-<link href="style/responsive.css" rel="stylesheet">
-<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--> 
-
-</head>
-
-<body>
-<div class="wrap">
-  <div class="tp-bar">
-    <div class="container">
-      <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="help"></a> <span class="slogan"> Helping Living Project </span> </div>
-      <!-- logo ends -->
-      <div class="tp-right">
-        <div class="social-links">
-          <ul>
-            <li><a href="#" class="icon-yahoo tooltip" title="yahoo"></a></li>
-            <li><a href="#" class="icon-facebook tooltip" title="facebook"></a></li>
-            <li><a href="#" class="icon-rss tooltip" title="rss"></a></li>
-            <li><a href="#" class="icon-flickr tooltip" title="flickr"></a></li>
-            <li><a href="#" class="icon-msn tooltip" title="msn"></a></li>
-            <li><a href="#" class="icon-stumbleupon tooltip" title="stumbleupon"></a></li>
-          </ul>
-        </div>
-        <div class="tweets">
-          <ul id="tweet">
-            <li>Here are 10 quality, affordable Zen Cart Templates, perfect for a wide variety of eCommerce needs. <a href="#">http://enva.to/XiCf5F</a></li>
-            <li>perfect for a wide variety of eCommerce needs. <a href="#">http://enva.to/XiCf5F</a></li>
-            <li>affordable Zen Cart Templates, perfect for a wide variety of eCommerce needs</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div><!-- tp-bar ends -->
- <nav class="menu-bar">
-    <div class="container">
-      <a href="#" class="tablet-menu"></a>
-      <ul class="menu">
-        <li><a href="index.php">Home</a></li>
-
-        <li><a href="about.html">About BMF</a>
-          <ul>
-            <li><a href="policy.html">Policy Documents</a></li>
-             <li><a href="team.html">Team</a></li>
-              
-            
-          </ul>
-        </li>
-       
-        <li><a href="benchmarks.html">Benchmarks</a></li>
-          <li><a href="benefits.html">Benefits</a></li>
-           <li><a href="professional.html">Professional Courses</a></li>
-        <li>
-          <a href="applications.html">Applications</a>
-          <ul>
-            <li><a href="scholarships.html">Scholarships</a></li>
-            <li><a href="assessment.html">Assessment</a></li>
-            <li><a href="eligible.html">Who Is Eligible</a></li>
-          </ul>
-        </li>
-        <li><a href="partners.html">Partners</a></li>
-
-
-        <li><a href="contact.html">Contact Us</a></li>
-               </li>
-      </ul><!-- menu ends --> 
-     
-    </div>
-  </nav><!-- menu-bar ends -->
   <div class="banner" style="background:url(images/resource/banner-1.jpg);">
     <div class="container">
       <h1>What is BMF</h1>
@@ -190,28 +115,11 @@
      
         
       </div>
-      <div class="span3">
-        <div class="events">
-          <h2>Events</h2>
-          <div class="event-countdown">
-            <h3>Raesent et neque at leo rutrum fermentum</h3>
-            <div class="counter">
-              <div class="count-down"></div>
-            </div>
-            <p>Integer at lacus sed sem placerat ullamcorper. Ut posuere, orci a viverra pellentesque, enim nisi tempus</p>
-            <ul class="list">
-              <li><span><i class="icon-date"></i>25 - 02 - 2013</span><span>08:00am - 12:00pm</span></li>
-              <li><span><i class="icon-location"></i>Washington, United States</span></li>
-            </ul>
-          
-          </div><!-- event-countdown ends -->
-        </div><!-- events (countdonw ends -->
-        <div class="widget-facebook">
-          <h2>Facebook</h2>
-          <div class="fb-like-box" data-href="https://www.facebook.com/themebazaar" data-width="270" data-show-faces="true" data-stream="false" data-show-border="true" data-header="true"></div>
-        </div><!-- widget-facebook ends -->
-        
-      </div>
+      <!-- Sidebar -->
+      <?php
+      include("sidebar.php");
+      ?>
+      <!-- Sidebar endds -->
     </div>
   </div><!-- /container --> 
   

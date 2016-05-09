@@ -4,9 +4,9 @@
         <p>&copy;2016 BMF &nbsp; &nbsp; &nbsp; Done By <a href="http://www.makonjo.com">Makonjo Media</a></p>
         <ul>
           <li><a href="index-2.html">Home</a></li>
-          <li><a href="#">Environment</a></li>
-          <li><a href="contact.html">Contact Us</a></li>
-          <li><a href="#">Site Map</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="partners.php">Partners</a></li>
+          <li><a href="#">Contact Us</a></li>
         </ul>
       </div>
       <div class="social-links">
