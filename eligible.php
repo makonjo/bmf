@@ -80,11 +80,7 @@
     <div class="container">
       <h1>Who is Eligible</h1>
       <div class="bread-bar clearfix">
-        <ul class="breadcrumb">
-          <li><a href="index-2.html">Home</a></li>
-          <li><a href="blog.html">Our Blogs</a></li>
-          <li><a href="blog-detail.html">Our Latest Blog</a></li>
-        </ul>
+       
       </div>
     </div>
   </div><!-- banner ends -->
