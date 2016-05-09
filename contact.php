@@ -24,10 +24,10 @@ include("header.php");
           <h2>Get In <strong>Touch</strong></h2>
           <p>We're very approachable and would love to speak to you. Feel free to call, send us an email, Tweet us or simply complete the enquiry form</p>
           <ul class="contact-list">
-            <li class="list-phone">+44 - 123 - 4567890</li>
-            <li class="list-email"><a href="#">Info@h-e-l-p.com</a></li>
-            <li class="list-facebook"><a href="#">www.facebook.com/h-e-l-p</a></li>
-            <li class="list-twitter"><a href="#">#h-e-l-p</a></li>
+            <li class="list-phone">+237 - 676 - 516 - 526</li>
+            <li class="list-email"><a href="#">Info@bmf.org</a></li>
+            <li class="list-facebook"><a href="#">www.facebook.com/bmfbuea</a></li>
+            <li class="list-twitter"><a href="#">@bmfbuea</a></li>
           </ul>
         </section><!-- blog-box ends -->
       </div>
