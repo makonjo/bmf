@@ -43,63 +43,41 @@
       </div>
     </div>
   </div><!-- tp-bar ends -->
-  <nav class="menu-bar">
-    <div class="container">
-      <a href="#" class="tablet-menu"></a>
-      <ul class="menu">
-        <li><a href="index-2.html">Home</a></li>
-        <li><a href="events.html">Events</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li>
-          <a href="gallery.html">Gallery</a>
-          <ul>
-            <li><a href="gallery-2col.html">two colum</a></li>
-            <li><a href="gallery.html">three colum</a></li>
-            <li><a href="gallery-4col.html">four colum</a></li>
-          </ul>
-        </li>
-        <li><a href="contact.html">Contact Us</a></li>
-        <li>
-          <a href="#">Pages</a>
-          <ul>
-            <li>
-              <a href="events.html">Events</a>
-              <ul>
-                <li><a href="events-detail.html">Event Detail</a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="blog.html">Blog</a>
-              <ul>
-                <li><a href="blog-detail.html">Blog Detail</a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="gallery.html">Gallery</a>
-              <ul>
-                <li><a href="gallery-2col.html">two colum</a></li>
-                <li><a href="gallery.html">three colum</a></li>
-                <li><a href="gallery-4col.html">four colum</a></li>
-              </ul>
-            </li>
-            <li><a href="contact.html">Contact Us</a></li>
-            <li>
-              <a href="#">Cursus Tempor</a>
-              <ul>
-                <li><a href="#">Ultrices augue dolor</a></li>
-                <li>
-                  <a href="#">Etiam risus et</a>
-                  <ul>
-                    <li><a href="#">Etiam risus et</a></li>
-                    <li><a href="#">Ultrices augue dolor</a></li>
-                    <li><a href="#">Cursus Tempor</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul><!-- menu ends --> 
+ <nav class="menu-bar">
+   <div class="container">
+     <a href="#" class="tablet-menu"></a>
+     <ul class="menu">
+       <li><a href="index.php">Home</a></li>
+
+       <li><a href="about.php">About BMF</a>
+         <ul>
+           <li><a href="policy.php">Policy Documents</a></li>
+            <li><a href="team.php">Team</a></li>
+             
+           
+         </ul>
+       </li>
+      
+       <li><a href="benchmarks.php">Benchmarks</a></li>
+         <li><a href="benefits.php">Benefits</a></li>
+          <li><a href="prossional.php">Professional Courses</a></li>
+       <li>
+         <a href="applications.php">Applications</a>
+         <ul>
+           <li><a href="scholarships.php">Scholarships</a></li>
+           <li><a href="accessment.php">Accessment</a></li>
+           <li><a href="eligible.php">Who Is Eligible</a></li>
+         </ul>
+       </li>
+       <li><a href="partners.php">Partners</a></li>
+
+
+       <li><a href="contact.php">Contact Us</a></li>
+              </li>
+     </ul><!-- menu ends --> 
+    
+   </div>
+ </nav><!-- menu-bar ends -->
       <div class="user-controls">
         <a href="#" class="user-login"></a>
         <a href="#" class="user-search"></a>

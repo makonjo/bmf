@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Home: BMF - Buea Municipal Council’s Business Management and Public Service Integrity Fellowship</title>
+<title>Home: BMF</title>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -34,66 +34,38 @@
       </div>
     </div>
   </div><!-- tp-bar ends -->
-  <nav class="menu-bar">
+ <nav class="menu-bar">
     <div class="container">
       <a href="#" class="tablet-menu"></a>
       <ul class="menu">
-        <li><a href="index-2.html">Home</a></li>
-        <li><a href="events.html">Events</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li>
-          <a href="gallery.html">Gallery</a>
+        <li><a href="index.php">Home</a></li>
+
+        <li><a href="about.html">About BMF</a>
           <ul>
-            <li><a href="gallery-2col.html">two colum</a></li>
-            <li><a href="gallery.html">three colum</a></li>
-            <li><a href="gallery-4col.html">four colum</a></li>
+            <li><a href="policy.html">Policy Documents</a></li>
+             <li><a href="team.html">Team</a></li>
+              
+            
           </ul>
         </li>
+       
+        <li><a href="benchmarks.html">Benchmarks</a></li>
+          <li><a href="benefits.html">Benefits</a></li>
+           <li><a href="professional.html">Professional Courses</a></li>
+        <li>
+          <a href="applications.html">Applications</a>
+          <ul>
+            <li><a href="scholarships.html">Scholarships</a></li>
+            <li><a href="assessment.html">Assessment</a></li>
+            <li><a href="eligible.html">Who Is Eligible</a></li>
+          </ul>
+        </li>
+        <li><a href="partners.html">Partners</a></li>
+
+
         <li><a href="contact.html">Contact Us</a></li>
-        <li>
-          <a href="#">Pages</a>
-          <ul>
-            <li>
-              <a href="events.html">Events</a>
-              <ul>
-                <li><a href="events-detail.html">Event Detail</a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="blog.html">Blog</a>
-              <ul>
-                <li><a href="blog-detail.html">Blog Detail</a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="gallery.html">Gallery</a>
-              <ul>
-                <li><a href="gallery-2col.html">two colum</a></li>
-                <li><a href="gallery.html">three colum</a></li>
-                <li><a href="gallery-4col.html">four colum</a></li>
-              </ul>
-            </li>
-            <li><a href="contact.html">Contact Us</a></li>
-            <li>
-              <a href="#">Cursus Tempor</a>
-              <ul>
-                <li><a href="#">Ultrices augue dolor</a></li>
-                <li>
-                  <a href="#">Etiam risus et</a>
-                  <ul>
-                    <li><a href="#">Etiam risus et</a></li>
-                    <li><a href="#">Ultrices augue dolor</a></li>
-                    <li><a href="#">Cursus Tempor</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
+               </li>
       </ul><!-- menu ends --> 
-      <div class="user-controls">
-        <a href="#" class="user-login"></a>
-        <a href="#" class="user-search"></a>
-      </div>
+     
     </div>
   </nav><!-- menu-bar ends -->
