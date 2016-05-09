@@ -39,25 +39,31 @@ include("header.php");
               <li class="row-fluid">
                 <div class="span12">
                   <label>Name <span class="require">(Required)</span></label>
-                  <input type="text" class="input-block-level" placeholder="">
+                  <input type="text" class="input-block-level" placeholder="" name="name">
                 </div>
               </li>
               <li class="row-fluid">
                 <div class="span12">
                   <label>Email <span class="require">(Required)</span></label>
-                  <input type="text" class="input-block-level" placeholder="">
+                  <input type="text" class="input-block-level" placeholder="" name="email">
+                </div>
+              </li>
+              <li class="row-fluid">
+                <div class="span12">
+                  <label>Phone <span class="require">(Required)</span></label>
+                  <input type="text" class="input-block-level" placeholder="" name="phone">
                 </div>
               </li>
               <li class="row-fluid">
                 <div class="span12">
                   <label>Subject <span class="require">(Required)</span></label>
-                  <input type="text" class="input-block-level" placeholder="">
+                  <input type="text" class="input-block-level" placeholder="" name="subject">
                 </div>
               </li>
               <li class="row-fluid">
                 <div class="span12">
                   <label>Message <span class="require">(Required)</span></label>
-                  <textarea class="input-block-level" placeholder=""></textarea>
+                  <textarea class="input-block-level" placeholder="" name="message"></textarea>
                 </div>
               </li>
               <li class="row-fluid">

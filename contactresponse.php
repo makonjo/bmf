@@ -6,9 +6,9 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "pmkcltd@gmail.com";
+    $email_to = "info@bmf.com";
  
-    $email_subject = "April Group RC";
+    $email_subject = "BMF";
  
      
  
@@ -20,7 +20,7 @@ if(isset($_POST['email'])) {
  
         echo "Something went wrong ";
  
-        echo "Please retry filling the form <a href='inquiry.php'>Inquiry Form</a>.<br /><br />";
+        echo "Please retry filling the form <a href='contact.php'>Inquiry Form</a>.<br /><br />";
  
         echo $error."<br /><br />";
  
