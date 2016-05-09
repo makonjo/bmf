@@ -34,7 +34,11 @@ include("header.php");
       <div class="span7">
         <section class="comment-area">
           <h2 class="text-pink">Leave <strong>Reply</strong></h2>
+<<<<<<< HEAD
           <form method="get" action="contactresponse.php">
+=======
+          <form method="get" action="http://www.extracoding.com/demo/html/help/index.html">
+>>>>>>> 5ce7aa561537fb96754b2d378eeae1a9020caf27
             <ul class="unstyled">
               <li class="row-fluid">
                 <div class="span12">
