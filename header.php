@@ -51,19 +51,19 @@
        
         <li><a href="benchmarks.php">Benchmarks</a></li>
           <li><a href="benefits.php">Benefits</a></li>
-           <li><a href="professional.html">Professional Courses</a></li>
+           <li><a href="professional.php">Professional Courses</a></li>
         <li>
-          <a href="applications.html">Applications</a>
+          <a href="applications.php">Applications</a>
           <ul>
-            <li><a href="scholarships.html">Scholarships</a></li>
-            <li><a href="assessment.html">Assessment</a></li>
+            <li><a href="scholarships.php">Scholarships</a></li>
+            <li><a href="assessment.php">Assessment</a></li>
             <li><a href="eligible.php">Who Is Eligible</a></li>
           </ul>
         </li>
-        <li><a href="partners.html">Partners</a></li>
+        <li><a href="partners.php">Partners</a></li>
 
 
-        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="contact.php">Contact Us</a></li>
                </li>
       </ul><!-- menu ends --> 
      
