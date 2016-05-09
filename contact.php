@@ -34,7 +34,7 @@ include("header.php");
       <div class="span7">
         <section class="comment-area">
           <h2 class="text-pink">Leave <strong>Reply</strong></h2>
-          <form method="get" action="contactresponse.php">
+          <form method="post" action="contactresponse.php">
             <ul class="unstyled">
               <li class="row-fluid">
                 <div class="span12">
