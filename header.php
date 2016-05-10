@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title><?php echo $title; ?>: BMF - Buea Municipal Fellowship on Business Management and Public Service Integrity</title>
+<title><?php echo $title; ?>: BMF - Buea Municipal Fellowship on Business Management and Public Service Integrity.</title>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
