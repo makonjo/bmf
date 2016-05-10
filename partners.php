@@ -2,6 +2,9 @@
 $title = "Partners";
 include("header.php");
 ?> 
+            <div class="image">
+           
+          </div>
   <div class="banner" style="background:url(images/resource/banner-1.jpg);">
     <div class="container">
       <h1>Partners</h1>
@@ -16,13 +19,11 @@ include("header.php");
       <div class="span9">
         <section class="blog-box">
           <div class="details">
-            <div class="image">
-           
-          </div>
 
           <p> <a href=""><img src="images/resource/122.png" alt="pic"></a></p>
 
           <p> <a href=""><img src="images/resource/41.jpg" alt="pic"></a></p>
+           <p> <a href=""><img src="images/resource/spaces.jpg" alt="pic"></a></p>
            
 
           </div><!-- details end -->

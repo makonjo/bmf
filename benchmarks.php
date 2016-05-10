@@ -17,7 +17,7 @@ include("header.php");
         <section class="blog-box">
           <div class="details">
             <div class="image">
-            <a href="blog-detail.html"><img src="images/resource/blog-pic-1.jpg" alt="pic"></a>
+            <a href="blog-detail.html"><img src="images/resource/bench.jpg" alt="pic"></a>
           </div>
            
             
