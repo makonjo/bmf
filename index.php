@@ -216,26 +216,7 @@ include("header.php");
       <!-- Sidebar endds -->
     </div>
   </div><!-- /container --> 
-  <div class="testimonials">
-    <div class="container">
-      <div class="testimonial-detail">
-        <ul class="testimoni">
-          <li>
-            <blockquote>
-              <p>The purpose of training is to tighten up the slack, toughen the body, and polish the spirit. </p>
-            </blockquote>
-            <span class="name">Morihei Ueshiba</span>
-          </li>
-          <li>
-            <blockquote>
-              <p>Job training empowers people to realize their dreams and improve their lives. </p>
-            </blockquote>
-            <span class="name">Sylvia Mathews Burwell</span>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div><!-- testimonials end -->
+  
   
 <?php
 include("footer.php");
