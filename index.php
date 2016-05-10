@@ -7,6 +7,23 @@ include("header.php");
     <div class="fullwidthbanner">
       <ul>
         <li data-transition="papercut" data-slotamount="15" data-masterspeed="2300" data-delay="9400">
+          <img src="images/resource/mayor1.jpg" alt="slide">
+          <div class="caption large_yallow lfl stl"
+             data-x="left"
+             data-y="170"
+             data-speed="500"
+             data-start="500"
+             data-easing="easeOutExpo">Buea Municipal Council
+          </div>
+          <div class="caption medium_grey lfr"
+             data-x="left"
+             data-y="236"
+             data-speed="500"
+             data-start="800"
+             data-easing="easeOutExpo">Enhancing the Economic Growth and Prosperity of a Nation
+          </div>
+        </li>
+        <li data-transition="papercut" data-slotamount="15" data-masterspeed="2300" data-delay="9400">
           <img src="images/resource/slide-1.jpg" alt="slide">
           <div class="caption large_yallow lfl stl"
              data-x="left"
@@ -56,7 +73,6 @@ include("header.php");
              data-start="800"
              data-easing="easeOutExpo">Localising Vision 2035 in Buea Municipality
           </div>
-          
         </li>
       </ul>
       <div class="tp-bannertimer"></div>
