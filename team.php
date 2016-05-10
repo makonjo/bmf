@@ -2,12 +2,11 @@
 $title = "Team";
 include("header.php");
 ?> 
-<<<<<<< HEAD
+
      
     </div>
   </nav><!-- menu-bar ends -->
-=======
->>>>>>> 5ce7aa561537fb96754b2d378eeae1a9020caf27
+
   <div class="banner" style="background:url(images/resource/banner-1.jpg);">
     <div class="container">
       <h1>Team</h1>

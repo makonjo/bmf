@@ -17,16 +17,16 @@ include("header.php");
         <section class="blog-box">
           <div class="details">
             <div class="image">
-            <a href="blog-detail.html"><img src="images/resource/11.jpg" alt="pic"></a>
+            <a href="blog-detail.html"><img src="images/resource/ben.jpg" alt="pic"></a>
           </div>
             <h4>Benefit of the Fellowship</h4>
             
           
-<<<<<<< HEAD
+
             <p>Successful public organizations whether large or small; private or public are well managed; the development of management skills alongside public service integrity within an organization is an essential part of continued business growth and collective prosperity. The fellowship is a capacity development support program in modern business management and good local governance practice with the aim of enriching your performance and expertise in the growing and evolving profession of business management and public service accountability.</p>
             <p>It offers you a unique opportunity to gain knowledge on a range of practical skills that will make you marketable and competitive in the workplace; increase your value to public service customers and to future employers.</p>
             <p>It offers you the opportunity to become a certified fellow of the Business Management and Public Service Integrity fellowship offered by Buea Municipal Council and International Governance Institute of the UK</p>
-=======
+
             <p> Successful public organizations whether large or small; private or public are well managed; the development of management skills alongside public service integrity within an organization is an essential part of continued business growth and collective prosperity. The fellowship is a capacity development support program in modern business management and good local governance practice with the aim of enriching your performance and expertise in the growing and evolving profession of business management and public service accountability.</p>
             <p>It offers you a unique opportunity to gain knowledge on a range of practical skills that will make you marketable and competitive in the workplace; increase your value to public service customers and to future employers.</p>
             <p> It offers you the opportunity to become a certified fellow of the Business Management and Public Service Integrity fellowship offered by Buea Municipal Council and International Governance Institute of the UK</p>
