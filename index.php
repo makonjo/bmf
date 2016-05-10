@@ -20,7 +20,7 @@ include("header.php");
              data-y="236"
              data-speed="500"
              data-start="800"
-             data-easing="easeOutExpo">Enhancing the Economic Growth and Prosperity of a Nation
+             data-easing="easeOutExpo">Enhancing the Economic Growth and Prosperity of the Nation
           </div>
         </li>
         <li data-transition="papercut" data-slotamount="15" data-masterspeed="2300" data-delay="9400">
