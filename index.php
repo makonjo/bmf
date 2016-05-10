@@ -13,14 +13,14 @@ include("header.php");
              data-y="170"
              data-speed="500"
              data-start="500"
-             data-easing="easeOutExpo">Improving Governance and Private
+             data-easing="easeOutExpo">Improving Governance and Private Sector
           </div>
           <div class="caption medium_grey lfr"
              data-x="left"
              data-y="236"
              data-speed="500"
              data-start="800"
-             data-easing="easeOutExpo">Sector Expansion in Municipalities through Education
+             data-easing="easeOutExpo">Expansion in Municipalities through Education
           </div>
         </li>
         <li data-transition="papercut" data-slotamount="15" data-masterspeed="2300" data-delay="9400">
