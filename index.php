@@ -174,7 +174,7 @@ include("header.php");
       </div>
       <div class="span3">
         <div class="donate">
-          <h2>The <strong>Program</strong></h2>
+          <h2><strong>The Program</strong></h2>
           <div class="donate-box">
             <form method="post" action="README.md">
               <div class="donate-detail">
@@ -191,20 +191,18 @@ include("header.php");
           </div><!-- donate-box ends -->
         </div><!-- donate ends -->
         <div class="twitter">
-          <h2>What is <strong>BMF?</strong></h2>
+          <h2><strong>What is BMF?</strong></h2>
           <div class="event-box">
                 <div class="detail" style="text-align: justify;">
                 <p>
                   BMF is a pioneering Business Management and Public Service Integrity professional development opportunity for the population of Cameroon in general, offered by Buea Municipal Council. It aims to overcome shortcomings in the development potential of ordinary citizens who constitute key players in the social, economic and political life of Cameroon and Buea municipality in particular. It is a partnership between the Buea Municipal Council and the International Governance 
                 </p>
                 <p>
-                  Institute of the UK through its Cameroon chapter known as the Focal Integrity Team. The BMF supports young public servants in the civil service and private sectors, unskilled small business operators and young entrepreneurs; graduates from all works of life, including individuals who desire to improve their competencies in business management and local governance for the sustainable development of Buea Municipality and Cameroon in general.
+                  Institute of the UK through its Cameroon chapter known as the Focal Integrity Team. The BMF supports young public servants in the civil service and private sectors, unskilled small business operators and young entrepreneurs; graduates from all works of life, including individuals who desire to improve their competencies in business management and local governance for the ...
                 </p>
+
                 <p>
-                  The purpose of BMF is to help Cameroon recover lost grounds in governance, economic and social development as quickly as possible so as to ...
-                </p>
-                <p>
-                  <a href="about.php">Continue reading about BMF</a>
+                  <a href="about.php">Read More</a>
                 </p>
                   
                 </div>
