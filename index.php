@@ -47,15 +47,16 @@ include("header.php");
              data-y="170"
              data-speed="500"
              data-start="500"
-             data-easing="easeOutExpo">Connecting the human capital of 
+             data-easing="easeOutExpo">Connecting Human Capital to the Nation's National Development Agenda
           </div>
           <div class="caption medium_grey lfr"
              data-x="left"
              data-y="236"
              data-speed="500"
              data-start="800"
-             data-easing="easeOutExpo">Buea municipality to the Nation’s National Development Agenda (Vision 2035)
+             data-easing="easeOutExpo">Localising Vision 2035 in Buea Municipality
           </div>
+          
         </li>
       </ul>
       <div class="tp-bannertimer"></div>
