@@ -79,15 +79,8 @@ include("header.php");
                                                     <p><h4>BMF Technical Advisors</h4></p>
                                                     <p>BMF technical advisors are PTF’s experts drawn from different parts of the world with extensive experience of anti-corruption, rule of law, policy implementation and international economic development. They provide regular coaching and mentoring on diverse aspects of the fellowship to ensure that the fellowship impact on the development of ordinary citizens and the community. PTF advances innovative citizen led actions to improve governance, promote transparency and reduce corruption in developing countries. To view PTF experts <a href="http://ptfund.org/board-directors"> click here</a> .</p>
 
-<<<<<<< HEAD
           </div><!-- details end -->
         </section><!-- blog-box ends -->
-
-=======
-
-          </div><!-- details end -->
-        </section><!-- blog-box ends -->
->>>>>>> 5ce7aa561537fb96754b2d378eeae1a9020caf27
       </div>
       <!-- Sidebar -->
       <?php
